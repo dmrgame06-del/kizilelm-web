@@ -1,0 +1,18 @@
+[
+  {
+    "id": "kizilelma_mcu_core",
+    "type": "mcu",
+    "name": "Kizilelma MCU - Mikrodenetleyici Paketleri",
+    "version": "1.0.0",
+    "description": "PIC16F877A, ESP32 ve diger desteklenen tum mikrodenetleyiciler icin gerekli core, header ve tanim dosyalari.",
+    "downloadUrl": "https://raw.githubusercontent.com/dmrgame06-del/kizilelm-mcu/main/dosyalar/pic16f877a.zip"
+  },
+  {
+    "id": "kizilelma_libraries",
+    "type": "library",
+    "name": "Kizilelma Libraries - Kutuphane Paketleri",
+    "version": "1.0.0",
+    "description": "Sensorler, ekranlar, motor bilesenleri ve haberlesme modulleri icin gelistirilmis resmi ve topluluk kutuphaneleri.",
+    "downloadUrl": "https://raw.githubusercontent.com/dmrgame06-del/kizilelm-packages/main/dosyalar/dht11.zip"
+  }
+]
